@@ -1,0 +1,19 @@
+fix: if lang already chosen there's error
+
+
+future:
+share config with other
+
+
+add:
+docstrings
+logger
+
+fix:
+scraper, so it scrapes for new vacancies to db and gives users back some of these vacancies based on their configs.
+
+
+scraper:
+1. I have scraper separately, that collects vacancies to DB
+2. I have notificator, that attaches these new vacancies to appropriate users' configurations and notifies them about it.
+
